@@ -1,0 +1,42 @@
+_repo: Memoirs-of-Robert-Houdin-ambassador-author-and-conjurer_42916
+_version: 0.1.0
+alternative_title: Confidences d'un prestidigitateur. English
+covers:
+- cover_type: archival
+  image_path: 42916-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robert-Houdin, Jean-Eugène
+    aliases:
+    - Robert-Houdin, Jean-Eugene
+    - Robert-Houdin
+    birthdate: 1805
+    deathdate: 1871
+    gutenberg_agent_id: '41927'
+    url: http://www.gutenberg.org/2009/agents/41927
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Eugène_Robert-Houdin
+  editor:
+    agent_name: Mackenzie, R. Shelton (Robert Shelton)
+    aliases:
+    - Mackenzie, Shelton
+    - Mackenzie, Robert Shelton
+    birthdate: 1809
+    deathdate: 1880
+    gutenberg_agent_id: '41926'
+    url: http://www.gutenberg.org/2009/agents/41926
+description: ''
+gutenberg_issued: '2013-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42916'
+  lccn: '16020219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Magicians -- France -- Biography'
+- !lcsh 'Robert-Houdin, Jean-Eugène, 1805-1871'
+title: Memoirs of Robert-Houdin, ambassador, author and conjurer
+url: http://www.gutenberg.org/ebooks/42916
